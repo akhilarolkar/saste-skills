@@ -1,0 +1,15 @@
+saste-skills — licensing
+
+1. Brand assets: © Saste Pixels (@saste.pixels). All rights reserved.
+   skills/saste-reel/engine/saste/assets/logo.png and logo_circle.png, the mascot, the channel name and handle,
+   and the example reel's voice recordings, video, poster and subtitles (skills/saste-reel/examples/).
+   No licence is granted to reuse them.
+
+2. Fonts: SIL Open Font License 1.1 (skills/saste-reel/engine/LICENSES/OFL-1.1.txt).
+   Plus Jakarta Sans (Tokotype), Space Mono (Colophon Foundry), Silkscreen (Jason Kottke).
+
+3. Vendored render tools: MIT, © 2026 Lemomo (LemoLab), https://github.com/lemomo-ai/lemo-opuscar
+   (skills/saste-reel/engine/core/, see engine/LICENSES/MIT-lemo-opuscar.txt).
+
+4. Everything else (brand.js, chip.py, voice tools, scripts, template, docs): © Saste Pixels. All rights reserved
+   unless the owner chooses an open licence.

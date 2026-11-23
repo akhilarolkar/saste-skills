@@ -1,0 +1,7 @@
+Saste Pixels — channel intro (reference example)
+
+Logo / mascot: © saste.pixels (client artwork).
+Voice: "Bunty" (Hindi, male, Excited) AI voice, generated and supplied by the client from their voiceover service (voice_bunty/).
+Music & SFX: original, synthesized in code (saste/chip.py). No samples.
+Fonts (SIL OFL 1.1): Plus Jakarta Sans (Tokotype), Space Mono (Colophon Foundry), Silkscreen (Jason Kottke).
+Render engine: tools vendored from Lemo-Opuscar (MIT) — see engine/LICENSES.

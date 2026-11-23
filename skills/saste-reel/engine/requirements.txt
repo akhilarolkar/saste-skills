@@ -1,0 +1,9 @@
+# saste-reel engine (installed by scripts/setup.sh into <SASTE_HOME>/engine/.venv)
+numpy
+scipy
+soundfile
+soxr
+pillow
+edge-tts          # fallback Hindi voice (hi-IN-MadhurNeural), online
+faster-whisper    # Hindi speech check + word timestamps
+av<19             # av 19 breaks faster-whisper 1.2

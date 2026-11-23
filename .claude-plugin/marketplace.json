@@ -1,0 +1,12 @@
+{
+  "name": "saste-skills",
+  "owner": { "name": "Saste Pixels" },
+  "metadata": { "description": "Skills for the @saste.pixels channel." },
+  "plugins": [
+    {
+      "name": "saste-skills",
+      "source": "./",
+      "description": "Make @saste.pixels Reels/Shorts in the channel's pixel-art brand theme (code-rendered animation, chiptune, Hindi Bunty voiceover)."
+    }
+  ]
+}

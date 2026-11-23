@@ -1,0 +1,34 @@
+[
+ {
+  "id": "l1",
+  "text": "Arey ruko ruko! Hollywood ka budget toh nahi tha...",
+  "say": "अरे रुको रुको! हॉलीवुड का बजट तो नहीं था...",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+5%",
+  "asr": "अरे रुको रुको! हॉलीवुड का बजट तो नहीं था"
+ },
+ {
+  "id": "l2",
+  "text": "...toh humne bana diya Saste Pixels!",
+  "say": "तो हमने बना दिया, सस्ते पिक्सल्स!",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+5%",
+  "asr": "तो हमने बना दिया सस्ते पिक्सल्स"
+ },
+ {
+  "id": "l3",
+  "text": "Yahan milega har mudde ka full post-mortem, thoda dimaag hilane wala gyan, aur full-on bakchodi—woh bhi zero budget animation mein!",
+  "say": "यहाँ मिलेगा हर मुद्दे का फुल पोस्टमॉर्टम, थोड़ा दिमाग हिलाने वाला ज्ञान, और फुल-ऑन बकचोदी, वो भी ज़ीरो बजट एनीमेशन में!",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+5%",
+  "asr": "यहाँ मिलेगा हर मुद्दे का फुल पोस्टमॉर्टम थोड़ा दिमाग हिलाने वाला ज्ञान और फुल ऑन बकचोदी वो भी ज़ीरो बजट एनीमेशन में"
+ },
+ {
+  "id": "l4",
+  "text": "Ab itna aage aa hi gaye ho, toh follow dabao... warna agla video sach mein zero budget mein banega!",
+  "say": "अब इतना आगे आ ही गए हो, तो फॉलो दबाओ... वरना अगला वीडियो सच में ज़ीरो बजट में बनेगा!",
+  "voice": "hi-IN-MadhurNeural",
+  "rate": "+5%",
+  "asr": "अब इतना आगे आ ही गए हो तो फॉलो दबाओ वरना अगला वीडियो सच में ज़ीरो बजट में बनेगा"
+ }
+]

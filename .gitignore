@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# per-reel build output (the example keeps its final mp4/poster/srt)
+**/out/
+**/stills/
+**/voice/.cache/

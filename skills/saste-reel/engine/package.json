@@ -1,0 +1,9 @@
+{
+  "name": "saste-reel-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Render engine for the saste-reel skill: headless-Chrome frame capture + brand kit.",
+  "engines": { "node": ">=20" },
+  "dependencies": { "playwright-core": "~1.63.0" }
+}
